@@ -43,6 +43,7 @@ We use the exact same system to generate the variables.
 * Magento 2.1.*
 * Magento 2.2.*
 * Magento 2.3.*
+* Magento 2.4.*
 
 # Installation
 
