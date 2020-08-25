@@ -1,5 +1,5 @@
 {
-  "name": "eadesignro/module-pdfgenerator",
+  "name": "eadesignro_clone/module-pdfgenerator",
   "description": "The best pdf generator for Magento. EaDesign PDF Generator",
   "type": "magento2-module",
   "version": "1.2.10",
